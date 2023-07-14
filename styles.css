@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30.6px;
+    color: #212121;
+    background-color: #ffffff;
+}
+
+header {
+    background-color: #14202e;
+    color: #ffffff;
+    padding: 20px;
+}
+
+header img {
+    height: 50px;
+}
+
+header h1 {
+    font-family: Georgia, sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 28px;
+}
+
+#content {
+    padding: 20px;
+}
+
+#content h2 {
+    font-family: 'Times New Roman', sans-serif;
+    font-size: 31.28px;
+    font-weight: 400;
+    line-height: 31.28px;
+    color: #004990;
+}
+
+#content p {
+    font-family: Helvetica, sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    color: #333333;
+}
